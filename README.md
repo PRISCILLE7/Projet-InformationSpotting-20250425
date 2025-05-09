@@ -1,4 +1,4 @@
-# TP - Information Spotting (Indexation de Documents Numérisés)
+# Projet - Information Spotting (Indexation de Documents Numérisés)
 
 Projet réalisé dans le cadre du module **Indexation Contenu Multimédia**, Université de La Rochelle / IFI - Université nationale du Vietnam.
 
